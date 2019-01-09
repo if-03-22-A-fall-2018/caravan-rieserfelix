@@ -1,19 +1,8 @@
-/*----------------------------------------------------------
- *				HTBLA-Leonding / Klasse: <your class name here>
- * ---------------------------------------------------------
- * Exercise Number: 0
- * File:			caravan.h
- * Author:			Peter Bauer
- * Due Date:		#due#
- * ----------------------------------------------------------
- * Description:
- * <Add description>
- * ----------------------------------------------------------
- */
 #ifndef CARAVAN_H
 #define CARAVAN_H
-
+#include <stdlib.h>
 #include "pack_animal.h"
+
 
 /**
 * Initialisiert eine Karawane. D. h., dass es alle in der Karawane befindlichen Tiere aus der
